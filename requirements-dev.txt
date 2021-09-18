@@ -1,3 +1,4 @@
 pytest-console-scripts
 pytest-mock
 tox
+w3lib
